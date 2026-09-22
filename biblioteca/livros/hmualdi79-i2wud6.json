@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "id": "hmualdi79-i2wud6",
+  "titulo": "O Gato Aristocrata",
+  "genero": "infantil",
+  "tom": "brincalhao",
+  "tamanho": "curto",
+  "estilo": "auto",
+  "detalhes": "Uma menina chamada Maya e um gato falante chamado Bigode encontram um mapa antigo no sótão da avó e partem para uma ilha de gelo.",
+  "palavras": 548,
+  "criadoEm": 1789955644005,
+  "atualizadoEm": 1789955644005,
+  "historia": "O Bigode não era um gato comum; ele tinha a mania de corrigir a gramática de todo mundo e usava um monóculo feito de arame e vidro de conserva que ele jurava ter herdado de um ancestral aristocrata de Versalhes.\n\n— Maya, querida, a poeira deste sótão é vintage, mas o espirro que você acabou de dar foi absolutamente deselegante — comentou o gato, lambendo uma pata com extrema pompa.\n\nMaya, que tinha sete anos e cabelos que pareciam ter sido penteados por um furacão, não se importou. Ela estava ocupada demais mergulhando em um baú que cheirava a canela e memórias antigas da vovó. Entre um xale de renda e um chapéu de penas, ela puxou um pergaminho amarelado, amarrado com um barbante vermelho. Ao abri-lo, os olhos da menina brilharam. Era um mapa, com desenhos de montanhas que pareciam sorvetes derretendo e uma marcação vermelha chamada Ilha do Geladinho.\n\n— Bigode, olha! O mapa diz que há um Tesouro de Cristal lá! — exclamou Maya, saltando de alegria.\n\nO gato suspirou, ajustando o monóculo.\n\n— Uma expedição para o frio? Minhas patas são feitas de veludo, não de neoprene. Mas, como sou um cavalheiro, aceito guiá-la, desde que haja petiscos de salmão no caminho.\n\nA jornada foi, no mínimo, curiosa. Eles não usaram um navio comum, mas sim um barco de papel gigante que Maya construiu usando a imaginação e três rolos de fita adesiva. O barco navegou por mares de espuma de banho até que, de repente, o ar ficou tão gelado que o bigode do gato congelou na forma de um pequeno picolé.\n\nAo chegarem à Ilha do Geladinho, descobriram que o chão era feito de sorbet de limão e que as árvores produziam pirulitos em vez de folhas. O problema era que o Tesouro de Cristal estava guardado no topo da Montanha do Espirro, e o caminho era bloqueado por um exército de pinguins que só deixariam passar quem contasse a piada mais engraçada do mundo.\n\n— Deixem com vocês! — gritou Maya. — Por que o livro de matemática estava triste?\n\nOs pinguins se inclinaram, curiosos.\n\n— Porque ele tinha muitos problemas!\n\nA gargalhada dos pinguins foi tão alta que causou uma pequena avalanche de marshmallows. Com o caminho livre, Maya e Bigode subiram a montanha, escorregando em barrigas de gelo e rindo até as bochechas ficarem vermelhas como tomates. No topo, encontraram o Baú de Cristal. Com as mãos trêmulas de expectativa, Maya abriu a tampa.\n\nLá dentro, não havia ouro nem diamantes, mas sim um espelho mágico e um bilhete escrito com a letra da vovó: \"O verdadeiro tesouro é a coragem de quem viaja com um gato rabugento\".\n\nBigode soltou um ronrono profundo, encostando a cabeça gelada no ombro de Maya.\n\n— Bem, o espelho reflete que sou absolutamente deslumbrante, então considero este tesouro aceitável — declarou o gato, enquanto Maya o abraçava apertado.\n\nEles voltaram para casa montados em uma nuvem de algodão doce, chegando ao sótão bem a tempo do lanche. A vovó, com um sorriso cúmplice, serviu chocolate quente para a menina e leite morno para o gato, que passou o resto da tarde explicando que, embora a aventura tivesse sido esplêndida, nada superava o conforto de um tapete macio e uma soneca de dezesseis horas.",
+  "cenas": [
+    {
+      "titulo": "O Gato Aristocrata",
+      "ancora": "monóculo feito de arame e vidro de conserva",
+      "arte": "biblioteca/arte/hmualdi79-i2wud6--0.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 136998
+    },
+    {
+      "titulo": "O Barco de Papel",
+      "ancora": "barco de papel gigante que Maya construiu",
+      "arte": "biblioteca/arte/hmualdi79-i2wud6--1.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 85482
+    },
+    {
+      "titulo": "A Ilha do Geladinho",
+      "ancora": "chão era feito de sorbet de limão",
+      "arte": "biblioteca/arte/hmualdi79-i2wud6--2.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 122605
+    },
+    {
+      "titulo": "O Tesouro Revelado",
+      "ancora": "O verdadeiro tesouro é a coragem de quem",
+      "arte": "biblioteca/arte/hmualdi79-i2wud6--3.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 116700
+    }
+  ]
+}
