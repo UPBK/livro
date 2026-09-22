@@ -15,13 +15,3 @@ Total: **2** história(s).
 | **[O Despertar de Luna](livros/hmuc08jj5-wmstv7.json)** | Infantil | Brincalhão | 466 | 4 | 21 de set. de 2026 |
 | **[Uma violinista](livros/hmubxv5h1-acmhb8.json)** | Infantil | Brincalhão | 507 | 3 | 21 de set. de 2026 |
 
-## Capas
-
-### O Despertar de Luna
-
-![Capa de O Despertar de Luna](arte/hmuc08jj5-wmstv7--0.jpg)
-
-### Uma violinista
-
-![Capa de Uma violinista](arte/hmubxv5h1-acmhb8--0.jpg)
-
