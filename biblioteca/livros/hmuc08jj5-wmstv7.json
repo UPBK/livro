@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "id": "hmuc08jj5-wmstv7",
+  "titulo": "O Despertar de Luna",
+  "genero": "infantil",
+  "tom": "brincalhao",
+  "tamanho": "curto",
+  "estilo": "auto",
+  "detalhes": "Uma astronauta acorda de criossono e percebe que a nave tem um passageiro que ninguém registrou.",
+  "palavras": 466,
+  "criadoEm": 1790041072865,
+  "atualizadoEm": 1790041072865,
+  "historia": "— Se você for um robô aspirador com crise de identidade, por favor, diga agora ou cale-se para sempre!\n\nA capitã Luna abriu os olhos com a sensação de que tinha dormido por mil anos, ou talvez apenas tenha esquecido de lavar o rosto. Ela estava dentro de sua cápsula de criossono, que parecia um marshmallow gigante e gelado. Quando a tampa de vidro subiu com um barulho de \"ploc\", Luna deu um espreguiço tão longo que quase derrubou o painel de controle da nave Estrela-do-Mar.\n\nEla bocejou, sentindo a língua pesada como um pedaço de queijo, e olhou ao redor. Tudo estava no lugar: seus livros de poemas espaciais, sua coleção de pedras lunares e seu pijama de bolinhas. Porém, havia algo muito errado. Sentado exatamente em cima da mesa de jantar da nave, com uma expressão de quem acabou de descobrir que o mundo é feito de chocolate, estava um panda.\n\nNão era um panda comum. Ele usava um óculos redondo que escorregava pelo nariz e segurava, com as patinhas peludas, o manual de instruções da nave.\n\n— Bom dia! — disse o panda, com uma voz que parecia um abraço quentinho. — Você demora muito para acordar. Eu já li todo o manual, fiz três lanches de bambu espacial e organizei seus sapatos por cores.\n\nLuna piscou três vezes. Ela verificou a lista de passageiros no tablet. Nada. Nem um panda, nem um hamster, nem mesmo um gnomo viajante. \n\n— Quem é você e como entrou na minha nave? — perguntou Luna, tentando não rir daquela criatura fofíssima que parecia uma almofada com pernas.\n\n— Eu sou o Pingo! — respondeu ele, dando um salto animado que quase o fez rolar pelo chão. — Eu sou um Especialista em Coisas Divertidas. Eu entrei por acaso enquanto seguia uma borboleta cósmica. Sabe como é, uma borboleta aqui, um salto quântico ali, e pumba! Caí dentro da sua cozinha enquanto você dormia esse sono de beleza.\n\nLuna, que era uma astronauta muito séria (mas que secretamente amava pandas), percebeu que a viagem para o Planeta Sorriso seria muito mais interessante com um Especialista em Coisas Divertidas a bordo. Pingo não sabia pilotar a nave, mas ele sabia exatamente como fazer a melhor massa de pão do universo e sabia contar histórias que faziam as estrelas brilharem mais forte.\n\n— Bem, Pingo, já que você organizou meus sapatos, acho que posso te manter — disse Luna, rindo.\n\nE assim, a astronauta e o panda passageiro seguiram viagem. Luna guiava a nave com precisão, e Pingo garantia que ninguém ficasse triste ou com a barriga vazia. Eles descobriram que, às vezes, as melhores coisas da vida são aquelas que não estão registradas em nenhuma lista, mas que chegam inesperadamente para transformar nossa jornada em uma grande aventura.",
+  "cenas": [
+    {
+      "titulo": "O Despertar de Luna",
+      "ancora": "dentro de sua cápsula de criossono",
+      "arte": "biblioteca/arte/hmuc08jj5-wmstv7--0.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 148873
+    },
+    {
+      "titulo": "O Visitante Inesperado",
+      "ancora": "estava um panda",
+      "arte": "biblioteca/arte/hmuc08jj5-wmstv7--1.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 123579
+    },
+    {
+      "titulo": "Apresentando Pingo",
+      "ancora": "Eu sou o Pingo!",
+      "arte": "biblioteca/arte/hmuc08jj5-wmstv7--2.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 120306
+    },
+    {
+      "titulo": "Jornada para o Planeta Sorriso",
+      "ancora": "seguiram viagem",
+      "arte": "biblioteca/arte/hmuc08jj5-wmstv7--3.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 140398
+    }
+  ]
+}
