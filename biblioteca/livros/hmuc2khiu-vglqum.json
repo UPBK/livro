@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "id": "hmuc2khiu-vglqum",
+  "titulo": "TESTE — livro leve",
+  "genero": "infantil",
+  "tom": "brincalhao",
+  "tamanho": "curto",
+  "estilo": "auto",
+  "detalhes": "provisorio",
+  "palavras": 160,
+  "criadoEm": 1790044989366,
+  "atualizadoEm": 1790044989366,
+  "historia": "Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve. Era uma vez um teste de armazenamento leve.",
+  "cenas": [
+    {
+      "titulo": "Capa do teste",
+      "ancora": "",
+      "arte": "biblioteca/arte/hmuc2khiu-vglqum--0.png",
+      "tipo": "image/png",
+      "bytes": 248922
+    }
+  ]
+}
