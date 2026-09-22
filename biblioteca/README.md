@@ -7,11 +7,10 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`arte/`](arte) — as ilustrações, uma por arquivo
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
 
-Total: **3** história(s).
+Total: **2** história(s).
 
 | História | Gênero | Tom | Palavras | Ilustrações | Salva em |
 |---|---|---|---|---|---|
-| **[TESTE 5 (apagar)](livros/zzteste-5.json)** | Infantil | Brincalhão | 507 | 0 | 21 de set. de 2026 |
 | **[O Despertar de Luna](livros/hmuc08jj5-wmstv7.json)** | Infantil | Brincalhão | 466 | 4 | 21 de set. de 2026 |
 | **[Uma violinista](livros/hmubxv5h1-acmhb8.json)** | Infantil | Brincalhão | 507 | 3 | 21 de set. de 2026 |
 
