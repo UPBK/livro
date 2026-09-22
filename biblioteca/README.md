@@ -16,9 +16,3 @@ Total: **3** história(s).
 | **[O Despertar de Luna](livros/hmuc08jj5-wmstv7.json)** | Infantil | Brincalhão | 466 | 4 | 21 de set. de 2026 |
 | **[Uma violinista](livros/hmubxv5h1-acmhb8.json)** | Infantil | Brincalhão | 507 | 3 | 21 de set. de 2026 |
 
-## Capas
-
-### TESTE — livro leve
-
-![Capa de TESTE — livro leve](arte/hmuc2khiu-vglqum--0.png)
-
