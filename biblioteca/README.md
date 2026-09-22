@@ -7,6 +7,7 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`fichas/`](fichas) — a ficha de cada história (título, dados e a capa). É isso que os aparelhos baixam sozinhos; o livro inteiro só desce quando alguém o abre
 - [`arte/`](arte) — as ilustrações, uma por arquivo
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
+- [`_conexao.json`](_conexao.json) — a chave (criptografada) do arquivo público que faz os aparelhos novos entrarem sozinhos; é ela que permite reatualizar essa conexão sem passar por um navegador específico
 
 Total: **2** história(s).
 
