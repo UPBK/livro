@@ -17,9 +17,3 @@ Total: **3** história(s).
 | **[Uma violinista](livros/hmubxv5h1-acmhb8.json)** | Infantil | Brincalhão | 507 | 3 | 21 de set. de 2026 |
 | **[O Gato Aristocrata](livros/hmualdi79-i2wud6.json)** | Infantil | Brincalhão | 548 | 4 | 20 de set. de 2026 |
 
-## Capas
-
-### O Gato Aristocrata
-
-![Capa de O Gato Aristocrata](arte/hmualdi79-i2wud6--0.jpg)
-
