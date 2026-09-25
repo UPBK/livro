@@ -9,11 +9,12 @@ o app reescreve o que precisar na próxima vez que abrir.
 - [`_lixeira.json`](_lixeira.json) — o que foi apagado, para não voltar sozinho
 - [`_conexao.json`](_conexao.json) — a chave (criptografada) do arquivo público que faz os aparelhos novos entrarem sozinhos; é ela que permite reatualizar essa conexão sem passar por um navegador específico
 
-Total: **3** história(s).
+Total: **4** história(s).
 
 | História | Gênero | Tom | Palavras | Ilustrações | Salva em |
 |---|---|---|---|---|---|
 | **[O Despertar de Luna](livros/hmuc08jj5-wmstv7.json)** | Infantil | Brincalhão | 466 | 4 | 21 de set. de 2026 |
 | **[Uma violinista](livros/hmubxv5h1-acmhb8.json)** | Infantil | Brincalhão | 507 | 3 | 21 de set. de 2026 |
 | **[O Gato Aristocrata](livros/hmualdi79-i2wud6.json)** | Infantil | Brincalhão | 548 | 4 | 20 de set. de 2026 |
+| **[História sem título](livros/hmuaeu8pu-c6qykg.json)** | Infantil | Brincalhão | 460 | 0 | 20 de set. de 2026 |
 
