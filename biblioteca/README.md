@@ -17,3 +17,9 @@ Total: **3** história(s).
 | **[Uma violinista](livros/hmubxv5h1-acmhb8.json)** | Infantil | Brincalhão | 507 | 3 | 21 de set. de 2026 |
 | **[O Gato Aristocrata](livros/hmualdi79-i2wud6.json)** | Infantil | Brincalhão | 548 | 4 | 20 de set. de 2026 |
 
+## Capas
+
+### O Despertar de Luna
+
+![Capa de O Despertar de Luna](arte/hmuc08jj5-wmstv7--0.jpg)
+
